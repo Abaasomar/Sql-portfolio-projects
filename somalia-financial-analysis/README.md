@@ -19,10 +19,14 @@ This project analyzes Somalia’s government financial data (2015–2022) to rev
 The project is organized as follows:
 somalia-financial-analysis/
 │
-├── 01_basic-eda/ # Basic exploratory data analysis
-├── 02_sql-analysis.sql # SQL queries for all financial questions
-├── 03_insights.md # Insights with root causes
-├── 04_recommendations.md # Recommendations based on insights
+├── 01_basic_eda #01_basic_eda.sql
+ – row counts, duplicates, missing values, summary stats
+├── 02_sql-analysis.sql # SQL queries
+ for all financial questions
+├── 03_insights.md # 03_Insights.md
+ with root causes
+├── 04_recommendations.md # Recommendations
+ based on insights
 └── README.md # Project overview and summary
 
 
