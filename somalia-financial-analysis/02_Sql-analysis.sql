@@ -8,7 +8,7 @@ SELECT
     ROUND(AVG(value), 2) AS avg_spending_per_year
 FROM somalia_financial_j
 GROUP BY year
-ORDER BY avg_spending_per_year DESC;
+ORDER BY avg_spending_per_year Desc;
 
 
 
