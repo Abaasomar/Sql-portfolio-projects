@@ -27,95 +27,95 @@ Customers are willing to spend more on popular or premium items in specific loca
 
 Possible Root Causes:
 
-Popularity of products, pricing strategy, and store location.
+Popularity of products, pricing strategy, and store location
 
-Seasonal trends, promotions, or product availability driving higher purchase values.
+Seasonal trends, promotions, or product availability
 
-Store-specific marketing or loyalty programs influencing transaction amounts.
+Store-specific marketing or loyalty programs
 
 Patterns / Notes:
 
-High-value products are concentrated in a few stores.
+High-value products are concentrated in a few stores
 
-Stores may consider prioritizing inventory and promotions for these high-performing combinations.
+Focus inventory and promotions on these high-performing combinations
 
 Recommendations:
 
-Focus marketing and inventory efforts on high-value products and stores.
+Target marketing and inventory efforts on high-value products
 
-Implement targeted promotions, bundle offers, or loyalty incentives to maximize revenue and encourage repeat purchases.
+Use bundle offers or loyalty incentives to maximize revenue
 
 2.2: Discount Penetration Across Stores
 
 SQL Result Summary:
 
-QuickStop Market has 100% discount penetration (all 208 transactions had discounts).
+QuickStop Market has 100% discount penetration (all 208 transactions had discounts)
 
-Other stores show lower average discount values and penetration rates.
+Other stores show lower discount penetration rates
 
 Insight / Interpretation:
 
-QuickStop Market relies heavily on discounts to drive sales volume.
+QuickStop Market relies heavily on discounts to drive sales volume
 
-Discount strategies vary across stores; some are more selective in offering promotions.
+Other stores are more selective in promotions
 
 Possible Root Causes:
 
-Store-specific promotional campaigns or clearance sales.
+Store-specific promotional campaigns
 
-Customer expectations and competition in different store locations.
+Competitive pressures and customer expectations
 
-Marketing strategy targeting volume over margin in high-traffic stores.
+Marketing strategy targeting volume over margin
 
 Patterns / Notes:
 
-Excessive discount penetration may impact profit margins despite increasing sales.
+Excessive discount penetration may reduce profit margins
 
-Balanced discount strategies could optimize revenue while maintaining customer engagement.
+Balanced strategies can optimize revenue while maintaining engagement
 
 Recommendations:
 
-Evaluate the effectiveness of 100% discount strategies to ensure profitability.
+Evaluate high discount strategies for profitability
 
-For stores with lower penetration, implement targeted promotions to increase engagement without reducing margins.
+Implement targeted promotions for low-penetration stores
 
 2.3: Products Contributing Most to Customer Loyalty
 
 SQL Result Summary:
 
-"Cereal" and "Yogurt" earn the highest average loyalty points.
+"Cereal" and "Yogurt" earn the highest loyalty points
 
-Other products provide lower points per transaction.
+Other products provide lower points per transaction
 
 Insight / Interpretation:
 
-Customers are more engaged with high-loyalty products, which likely drive repeat purchases.
+High-loyalty products drive repeat purchases
 
-Loyalty programs are particularly effective for these product categories.
+Loyalty programs are effective for these product categories
 
 Possible Root Causes:
 
-Product popularity, frequent purchases, or higher point incentives.
+Product popularity and frequent purchases
 
-Marketing campaigns promoting specific products in loyalty programs.
+Marketing campaigns promoting specific products
 
 Patterns / Notes:
 
-High-loyalty products are key drivers for customer retention.
+Focus on high-loyalty products to maintain engagement
 
-Introducing additional incentives for lower-loyalty products can improve overall engagement.
+Introduce incentives for low-loyalty products
 
 Recommendations:
 
-Promote high-loyalty products via loyalty programs, bundle offers, or campaigns.
+Promote high-loyalty products through campaigns or bundles
 
-Introduce incentives for lower-loyalty products to boost overall engagement and drive traffic across categories.
+Boost incentives for low-loyalty products to increase engagement
 
 2.4: Product Diversity Across Aisles
 
 SQL Result Summary:
 
-Total unique products: [Insert total].
+Total unique products: [Insert total]
 
 Highest diversity aisles (18 unique products each):
 
@@ -127,33 +127,35 @@ Canned Soda
 
 Insight / Interpretation:
 
-Certain aisles offer a wide variety, attracting customers with more choices.
+Certain aisles offer wide variety, attracting customers
 
-Other aisles are less diverse, which may limit customer options.
+Other aisles are less diverse
 
 Possible Root Causes:
 
-Consumer demand patterns influencing product assortment.
+Consumer demand influencing assortment
 
-Supplier availability, storage space, or merchandising strategy.
+Supplier availability and storage constraints
+
+Merchandising strategy
 
 Patterns / Notes:
 
-High-diversity aisles contribute to increased purchase likelihood.
+High-diversity aisles increase purchase likelihood
 
-Expanding variety in underrepresented aisles could boost overall sales.
+Expanding variety in other aisles can boost sales
 
 Recommendations:
 
-Expand product offerings in underrepresented aisles to balance assortment.
+Expand product offerings in underrepresented aisles
 
-Maintain high diversity in popular aisles and optimize inventory based on sales trends.
+Maintain high diversity in popular aisles
 
 2.5: Geographic Coverage and Store Performance
 
 SQL Result Summary:
 
-Top-performing stores based on total sales and average transaction value:
+Top-performing stores based on total sales and avg transaction value:
 
 Greengrocer Plaza
 
@@ -163,36 +165,36 @@ Freshmart Downtown
 
 Insight / Interpretation:
 
-These stores generate the most revenue and have strong customer traffic.
+High revenue stores indicate strong customer traffic
 
-Indicates location, product assortment, and store strategy impact performance.
+Store location, product assortment, and strategy impact performance
 
 Possible Root Causes:
 
-High-traffic locations, better product mix, or effective marketing.
+High-traffic locations, better product mix
 
-Store management and customer service quality driving sales and satisfaction.
+Effective marketing and store management
 
 Patterns / Notes:
 
-Focused attention on top-performing stores can maximize revenue.
+Focus on top-performing stores to maximize revenue
 
-Low-performing stores may benefit from targeted campaigns or optimized inventory.
+Low-performing stores may need targeted campaigns
 
 Recommendations:
 
-Focus marketing, inventory, and staffing on high-performing stores.
+Allocate marketing, inventory, and staffing to high-performing stores
 
-Investigate low-performing stores for potential improvements and consider localized campaigns to boost sales.
+Improve performance in low-performing stores through campaigns and inventory optimization
 
 Overall Observations
 
-High-value products and specific stores drive the majority of revenue.
+High-value products and specific stores drive most revenue
 
-Discount strategies vary significantly and affect customer purchase behavior.
+Discount strategies vary significantly, affecting behavior
 
-Loyalty programs are most effective for high-loyalty products like Cereal and Yogurt.
+Loyalty programs are effective for high-loyalty products like Cereal and Yogurt
 
-Product diversity is concentrated in a few aisles; expanding variety elsewhere could improve sales.
+Product diversity is concentrated; expanding variety can increase sales
 
-Geographic store performance highlights top locations, providing opportunities to replicate strategies across lower-performing stores.
+Geographic store performance highlights top locations for strategy replication
