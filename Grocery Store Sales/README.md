@@ -28,8 +28,8 @@ The project is organized for clarity and ease of use:
 
 - [`01_data cleaning.sql`](./01_data%20cleaning.sql) – SQL scripts for cleaning and preparing the grocery store dataset.  
 - [`02_sql-analysis.sql`](./02_sql-analysis.sql) – Contains all SQL queries for data exploration and analysis.  
-- [`03_insights.md`](./03_insights.md) – Detailed insights derived from SQL queries, including interpretations, possible root causes, and patterns.  
-- [`04_Recommendation.md`](./04_Recommendation.md) – Actionable recommendations based on insights to guide business decisions.  
+- [`03_Insights.md`](./03_insights.md) – Detailed insights derived from SQL queries, including interpretations, possible root causes, and patterns.  
+- [`04_Recommendations.md`](./04_Recommendation.md) – Actionable recommendations based on insights to guide business decisions.  
 
 > Hover over the links to navigate directly to the respective files in the repository.
  
