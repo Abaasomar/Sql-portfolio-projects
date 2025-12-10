@@ -1,28 +1,38 @@
-This commit adds the complete set of summarized insights and detailed recommendations
-for the Supplement Sales Exploratory Data Analysis (EDA) project.
+# 💡 Supplement Sales Data Analysis – Recommendations
 
-Key components included:
+---
 
-1. **Countries Offering the Highest Discounts**
-   - Identified the United States, Canada, and the United Kingdom as the most promotion-heavy markets.
-   - Recommendations include monitoring promotional spend, evaluating ROI on discounts, and adjusting marketing strategies for maximum effectiveness.
+## 1. Countries Offering the Highest Discounts
 
-2. **Highest Revenue Categories & Platforms**
-   - Minerals and Vitamins sold on iHerb are the top revenue-generating combination.
-   - Recommendations focus on optimizing marketing and inventory strategies, improving product listings on secondary platforms, and targeting campaigns to maximize revenue.
+- Monitor promotional spend in the **United States, Canada, and the United Kingdom**.
+- Evaluate the **ROI of high-discount campaigns** to ensure profitability.
+- Adjust marketing strategies based on competitive intensity and seasonal demand.
+- Consider targeted promotions in markets with lower discounts to stimulate sales growth.
 
-3. **Year-Over-Year Revenue Growth Trend**
-   - Analyzed total revenue per year with growth percentages to identify trends.
-   - Recommendations include investigating causes of revenue spikes or declines, adjusting product launches and inventory planning, and leveraging trends for forecasting and strategic planning.
+---
 
-4. **Top-Performing Platforms**
-   - iHerb, Amazon, and Walmart generate the highest revenue, with iHerb contributing 34.28% of total sales.
-   - Recommendations include prioritizing investment and strategic initiatives on iHerb, optimizing operations on other platforms, and tailoring marketing campaigns by platform.
+## 2. Highest Revenue Categories & Platforms
 
-5. **Overall Strategic Recommendations**
-   - Focus promotions in high-impact regions.
-   - Align product-platform strategies to maximize revenue.
-   - Use historical revenue trends for pricing, marketing, and inventory decisions.
-   - Monitor platform performance continuously for data-driven decision-making.
+- Focus **marketing and inventory strategies** on iHerb for top-performing categories (Minerals and Vitamins).
+- Optimize product listings, pricing, and promotions on secondary platforms like Amazon and Walmart.
+- Analyze customer behavior to replicate successful strategies across other categories and platforms.
+- Prioritize top-selling categories for seasonal campaigns or bundle promotions to maximize revenue.
 
-This commit ensures that all insights are clearly summarized and actionable recommendations are documented for business strategy, portfolio presentation, and further analysis.
+---
+
+## 3. Year-Over-Year Revenue Growth Trend
+
+- Investigate the causes behind revenue **spikes** or **declines** each year.
+- Adjust **product launches, promotions, and inventory planning** based on historical growth trends.
+- Use revenue trend analysis to inform **forecasting, budgeting, and strategic planning**.
+- Identify external factors (market changes, competitor actions) affecting growth and adjust strategies accordingly.
+
+---
+
+## 4. Top-Performing Platforms
+
+- Prioritize **strategic initiatives on iHerb**, which contributes over 34% of total revenue.
+- Use insights from iHerb to **optimize operations on secondary platforms** like Amazon and Walmart.
+- Monitor revenue contributions by platform regularly to detect shifts or opportunities.
+- Invest resources in top-performing platforms to maximize **sales efficiency and ROI**.
+- Explore marketing or promotional campaigns tailored specifically for each platform’s
