@@ -10,8 +10,8 @@ This document provides summarized insights derived from SQL analysis on the groc
   - Apples – Megamart West Side
   - Ground Beef – Corner Grocery
   - Orange Juice – Greengrocer Plaza
-  - Bananas – [Store Name]
-  - Rice – [Store Name]
+  - Bananas – Greengrocer Plaza
+  - Rice – Greengrocer Plaza
 
 ### Insight / Interpretation
 - Certain product–store pairs generate higher revenue per transaction.
