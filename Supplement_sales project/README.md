@@ -22,8 +22,8 @@ By analyzing these patterns, actionable recommendations can be made to improve r
 
 The project is organized for clarity and ease of use:
 
-- [`01_data_cleaning.sql`](./01_data_cleaning.sql) – SQL scripts for cleaning and preparing the supplement sales dataset.  
-- [`02_sql_analysis.sql`](./02_sql_analysis.sql) – Contains all SQL queries for data exploration and analysis.  
+- [`01_Data_cleaning.sql`](./01_Data_cleaning.sql) – SQL scripts for cleaning and preparing the supplement sales dataset.  
+- [`02_EDA.sql`](./02_EDA.sql) – Contains all SQL queries for data exploration and analysis.  
 - [`03_Insights.md`](./03_Insights.md) – Detailed insights derived from SQL queries, including interpretations and patterns.  
 - [`04_Recommendations.md`](./04_Recommendations.md) – Actionable recommendations based on insights to guide business decisions.  
 
@@ -46,9 +46,6 @@ The analysis focuses on answering these key questions:
 
 4. **Which platforms perform the best overall?**  
    Evaluate e-commerce channels like iHerb, Amazon, and Walmart to prioritize strategic initiatives.
-
-5. **How can sales performance be improved through actionable recommendations?**  
-   Provide data-driven guidance to maximize revenue, optimize discounts, and focus on top-performing products and platforms.
 
 ---
 
