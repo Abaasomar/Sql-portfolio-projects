@@ -1,12 +1,34 @@
 -- SQL PORTFOLIO PROJECT
 -- Purpose: Exploratory Data Analysis (EDA) on supplement_sales2 dataset
 -- Tools: MySQL / SQL Workbench
--- ====================================================================
 USE sql_Portfolio_projects;
 -- View all available data
-SELECT * FROM supplement_sales;
--- ====================================================================
--- EXPLORATORY DATA ANALYSIS (EDA)
+SELECT * FROM supplement_sales2;
+-- Basic EDA queries I.E COUNT ROWS, DATA QUALITY CHECKS I.E MISSING VALUES & DUPLICATES,SUMMARY STATISTICS: 
+-- 1_Missing values:
+SELECT COUNT(*) - COUNT(*) AS missing_values
+FROM supplement_sales2;
+-- 2.Duplicate values:
+SELECT date, COUNT(*) 
+FROM supplement_sales2
+GROUP BY date
+HAVING COUNT(*) > 1;
+-- 3.Summary statistics:
+-- price column
+SELECT MIN(Price), MAX(Price), AVG(Price), SUM(Price)
+FROM supplement_sales2;
+-- Units_sold column
+SELECT MIN(Units_sold), MAX(Units_sold), AVG(Units_sold), SUM(Units_sold)
+FROM supplement_sales2;
+-- Units_sold column
+SELECT MIN(revenue), MAX(revenue), AVG(revenue), SUM(revenue)
+FROM supplement_sales2;
+-- Discount column
+SELECT MIN(Discount), MAX(Discount)
+FROM supplement_sales2;
+SELECT MIN(Units_returned), MAX(Units_returned), AVG(Units_returned), SUM(Units_returned)
+FROM supplement_sales2;
+-- DEEP EXPLORATORY DATA ANALYSIS (DEDA)
 -- The goal is to explore the dataset, identify patterns, trends, or insights.
 -- We will analyze discounts, revenue, categories, platforms, and time trends.
 -- ====================================================================
@@ -58,7 +80,7 @@ WITH product_totals AS (
 )
 SELECT * FROM product_totals;
 
--- 📝 Insight:
+-- Insight:
 -- Minerals from the platform “iHerb” generated the maximum revenue in this dataset,
 -- outperforming other platforms such as Amazon.
 
