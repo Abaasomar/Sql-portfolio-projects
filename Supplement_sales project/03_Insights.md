@@ -1,82 +1,89 @@
- Insight 1 — Countries Offering the Highest Discounts
+# 📊 Supplement Sales Data Analysis Insights
 
-The analysis reveals a clear pattern in promotional intensity across countries.
-The United States leads with the highest average discount, closely followed by Canada and the United Kingdom.
-Although the percentage differences are small, this trend signals that North American markets are significantly more promotion-driven.
+---
 
-This suggests that retailers in these regions operate in a highly competitive environment, where discounts are used strategically to attract price-sensitive customers and increase sales volumes.
-Such aggressive discounting can also reflect seasonal campaigns, stronger e-commerce competition, and customer expectations for reduced pricing.
+## 1. Countries Offering the Highest Discounts
 
-Interpretation:
+**Key Finding:**  
+The United States leads with the highest average discount, slightly ahead of Canada (12.74%) and the United Kingdom (12.59%), indicating a highly competitive promotional strategy in North American markets.
 
-U.S., Canada, and U.K. dominate discount activity.
+**Interpretation:**  
+- North American markets are promotion-heavy.  
+- Discounts are used strategically to attract customers and increase sales volume.  
+- Reflects seasonal campaigns and competitive pricing strategies.
 
-North American markets rely heavily on promotional strategies.
+**Recommendation:**  
+- Monitor promotional spend in U.S., Canada, and U.K.  
+- Evaluate ROI on high-discount campaigns.  
+- Adjust marketing strategies based on competitive intensity.
 
-This may indicate strong competition or consumer demand for discounted prices.
+---
 
- Insight 2 — Highest Revenue Categories & Platforms
+## 2. Highest Revenue Categories & Platforms
 
-The revenue analysis shows that Minerals and Vitamins sold on iHerb consistently generate the highest revenue across all product–platform combinations.
+**Key Finding:**  
+Minerals and Vitamins sold on **iHerb** generate the highest revenue, outperforming platforms like Amazon.
 
-This implies that:
+**Interpretation:**  
+- Platform-product alignment is critical: some products perform better on specific platforms.  
+- iHerb’s brand strength and global reach drive higher sales.  
+- Other platforms like Amazon and Walmart perform well but lag behind iHerb.
 
-iHerb is a dominant platform in terms of supplement sales.
+**Recommendation:**  
+- Focus marketing and inventory strategies on iHerb for top-performing categories.  
+- Optimize listings and promotions on secondary platforms (Amazon, Walmart).  
+- Analyze customer behavior to replicate successful strategies across categories.
 
-Customers trust iHerb for health-related items such as minerals and vitamins.
+---
 
-iHerb’s brand strength, global reach, and pricing strategy result in superior performance compared to competitors like Amazon or smaller regional retailers.
+## 3. Year-Over-Year Revenue Growth Trend
 
-This insight highlights the importance of category-platform alignment: some platforms excel specifically with certain product types due to customer demographics, product visibility, or targeted marketing.
+**Key Finding:**  
+Each year’s total revenue compared to the previous year shows clear trends in growth or decline.
 
-Interpretation:
+- Positive growth percentage → revenue increased.  
+- Negative growth percentage → revenue declined.
 
-Minerals + Vitamins are top-selling categories.
+**Interpretation:**  
+- Highlights high-growth periods and potential decline years.  
+- Reveals the impact of marketing campaigns, promotions, or external factors on revenue.  
+- Enables identification of patterns in seasonal or yearly revenue trends.
 
-iHerb strongly outperforms Amazon in these product lines.
+**Recommendation:**  
+- Investigate causes behind revenue spikes or drops.  
+- Adjust product launches, promotions, or inventory based on historical trends.  
+- Use growth analysis for future revenue forecasting.
 
-Optimal product–platform pairing drives substantial revenue differences.
+---
 
-Insight 3 — Year-over-Year Revenue Growth Trend
+## 4. Top-Performing Platforms
 
-The annual revenue trend reveals how the business performs over time.
-The year-over-year analysis compares total revenue for each year to the previous one using growth percentages.
+**Key Finding:**  
+**iHerb, Amazon, and Walmart** generate the most revenue. iHerb is the top performer, contributing **34.28% of total revenue**.
 
-If growth_percentage > 0 → Revenue increased.
-If growth_percentage < 0 → Revenue declined.
+**Interpretation:**  
+- Platform choice has a significant impact on revenue performance.  
+- iHerb is the strongest channel for supplement sales.  
+- Amazon and Walmart contribute significantly but less than iHerb.
 
-This trend analysis helps identify:
+**Recommendation:**  
+- Prioritize marketing and strategic initiatives on iHerb.  
+- Use insights from top-performing platforms to optimize sales on secondary platforms.  
+- Monitor revenue contribution by platform regularly to detect shifts.
 
-High-growth periods where demand increased or marketing efforts succeeded.
+---
 
-Decline years where revenue fell due to reduced demand, weak promotions, or external factors such as market saturation or seasonal shifts.
+## 5. Overall Summary
 
-The insights allow decision-makers to examine why certain years had stronger or weaker performance, and how marketing, pricing, or product launches affected revenue changes.
+- **Discount Trends:** North America leads in promotions, indicating a competitive market.  
+- **Revenue Drivers:** Minerals and Vitamins on iHerb dominate revenue.  
+- **Revenue Growth:** Yearly trends show periods of growth and decline, guiding strategic decisions.  
+- **Platform Performance:** iHerb leads with over one-third of total revenue; Amazon and Walmart follow.  
 
-Interpretation:
+**Strategic Implications:**  
+- Focus promotional campaigns on high-performing regions.  
+- Optimize product-platform combinations to maximize revenue.  
+- Monitor annual revenue trends for forecasting and marketing strategy.  
+- Invest resources strategically on top-performing platforms to drive growth.
 
-Yearly revenue changes show clear upward or downward momentum.
-
-Growth trends help identify high-performing and under-performing periods.
-
-Businesses should investigate the causes of major revenue spikes or declines.
-
-Insight 4 — Top-Performing Platforms
-
-Among all sales platforms analyzed, iHerb, Amazon, and Walmart generate the highest revenue overall.
-However, iHerb stands out as the top performer, contributing approximately 34.28% of total revenue—a substantial share that highlights its market dominance.
-
-This indicates that iHerb not only drives high revenue but also has a strong customer base for supplements.
-Amazon and Walmart still perform well, but they trail behind iHerb in percentage contribution.
-
-This insight suggests that platform-focused strategies (like optimizing listings, reviews, and promotions on iHerb) could yield major financial benefits.
-
-Interpretation:
-
-iHerb is the strongest overall platform (34.28% of total revenue).
-
-Amazon and Walmart are strong secondary contributors.
-
-Platform choice significantly impacts revenue performance.
-
-Strategic investment in top platforms can maximize sales outcomes.
+---
