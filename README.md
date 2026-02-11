@@ -1,11 +1,11 @@
 # 📂 SQL Portfolio Projects
 
-Welcome to my **SQL Portfolio Repository**, which showcases three comprehensive SQL-based projects focusing on financial analysis, sales analytics, and exploratory data analysis (EDA).  
+Welcome to my **SQL Portfolio Repository**, which showcases multiple comprehensive SQL-based projects focusing on financial analysis, sales analytics, and exploratory data analysis (EDA).  
 Each project demonstrates database creation, data cleaning, analysis, insights, and actionable recommendations using **MySQL / SQL Workbench**.
 
 ---
 
-##  Projects Included
+## Projects Included
 
 This repository contains the following projects:
 
@@ -31,6 +31,14 @@ This repository contains the following projects:
      - Insights highlighting top-performing categories and platforms.
      - Recommendations for marketing, inventory, and platform strategy optimization.
 
+4. **E-commerce Transactions Analysis (`ecommerce_transactions`)**  
+   - Focus: Analyzing e-commerce transactions to uncover revenue patterns, discount strategies, sales trends, and customer payment behavior.  
+   - Key Components:
+     - Data cleaning SQL scripts (`01_data_cleaning.sql`) for missing discounts, date standardization, and logical checks.
+     - SQL queries (`02_exploratory_data_analysis.sql`) for EDA: revenue per category, sales trends over time, discounts per category, and payment behavior.
+     - Insights (`insights/insights.md`) summarizing key observations and trends.
+     - Recommendations (`insights/recommendations.md`) with actionable business strategies.
+
 ---
 
 ## 📁 Repository Structure
@@ -55,6 +63,12 @@ The main repository is organized for clarity and easy navigation:
   - `03_Insights.md` – Summarized insights derived from SQL queries.
   - `04_Recommendations.md` – Detailed recommendations to guide business decisions.
 
+- `ecommerce_transactions/`
+  - `01_data_cleaning.sql` – Cleaning e-commerce transactions dataset.
+  - `02_EDA.sql` – SQL queries for EDA on revenue, discounts, sales trends, and payments.
+  - `03_insights.md` – Key insights derived from SQL analysis.
+  - `04_Recommendations.md` – Recommendations to optimize sales and marketing strategies.
+
 > Each folder contains fully documented SQL scripts and markdown files for insights and recommendations.
 
 ---
@@ -78,6 +92,12 @@ The main repository is organized for clarity and easy navigation:
 - Analyze revenue growth trends year-over-year.
 - Assess platform performance (iHerb, Amazon, Walmart).
 
+### E-commerce Transactions
+- Which products or categories generate the highest revenue and why?
+- How does sales performance change over time?
+- Which product categories receive the most discounts?
+- What is the most used payment method and maximum purchase per method?
+
 ---
 
 ## 💡 Insights & Recommendations
@@ -99,4 +119,4 @@ This repository demonstrates my ability to:
 - Extract insights and translate them into actionable recommendations.  
 - Present projects in a structured, professional, and portfolio-ready format.
 
-> This portfolio showcases practical SQL skills applicable to financial analysis, retail analytics, and e-commerce data evaluation.
+> This portfolio showcases practical SQL skills applicable to **financial analysis, retail analytics, supplements, and e-commerce data evaluation**.
