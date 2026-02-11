@@ -35,10 +35,10 @@ By analyzing these patterns, actionable recommendations can be made to improve *
 
 The project is organized for clarity and ease of use:
 
-- [`01_data_cleaning.sql`](./01_data_cleaning.sql) – SQL scripts for cleaning and preparing the e-commerce transactions dataset.  
-- [`02_EDA.sql`](./02_exploratory_data_analysis.sql) – SQL queries for exploratory data analysis and solving business problems.  
-- [`03_insights.md`](./insights/insights.md) – Detailed insights derived from SQL queries, highlighting patterns and observations.  
-- [`Recommendations.md`](Recommendations.md) – Actionable recommendations based on insights to guide strategic business decisions.  
+- [`01_data cleaning.sql`](01_data cleaning.sql) – SQL scripts for cleaning and preparing the e-commerce transactions dataset.  
+- [`02_EDA.sql`](02_EDA.sql) – SQL queries for exploratory data analysis and solving business problems.  
+- [`03_insights.md`](03_insights/insights.md) – Detailed insights derived from SQL queries, highlighting patterns and observations.  
+- [`04_Recommendations.md`](04_Recommendations.md) – Actionable recommendations based on insights to guide strategic business decisions.  
 
 > Hover over the links to navigate directly to the respective files in the repository.
 
