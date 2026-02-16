@@ -1,48 +1,59 @@
-## 🔎 Insight 1.1:TOP 5 AGE/GENDER GROUPS BY SPENDING
+# Retail Sales Dataset - Exploratory Data Analysis Insights
 
-The analysis shows that certain age and gender groups demonstrate significantly higher average spending behavior compared to others.
+This document summarizes the business insights extracted from the cleaned retail_sales2 dataset.  
+The analysis focuses on customer behavior, sales trends over time, and product category performance to inform data-driven business decisions.
 
-Male customers in their early 30s exhibit the highest spending intensity per transaction, indicating the presence of high-value but potentially low-frequency buyers.
+---
 
-Female customers in their mid-30s contribute strongly to overall revenue, combining consistent purchasing behavior with relatively high spending levels.
+## 🔎 Business Problem 1: Customer Behavior by Age and Gender
+**Objective:** Understand how demographics influence purchasing patterns to enable targeted marketing and personalized offers.
 
-Customers between their mid-30s and mid-40s consistently appear among the top-spending demographic segments, suggesting that this age range represents a core revenue-driving group.
+### Insight 1.1: Top Age/Gender Groups by Average Spending
+The analysis identified the top age and gender segments contributing the most to average spending.  
+Male and female customers in their 30s and 40s tend to spend the highest amounts per transaction, indicating that middle-aged customers are the primary drivers of revenue.  
+These insights suggest that marketing strategies and promotional campaigns should be tailored to these high-spending demographic groups.
 
-Younger customers, while active, generally show lower spending intensity compared to middle-aged segments.
+### Insight 1.2: Total and Average Quantity Purchased by Age and Gender
+Customer groups vary in the total number of items purchased and the average quantity per transaction.  
+Certain age/gender segments show higher transaction frequency but lower average quantities, while others purchase fewer times but with higher quantities per transaction.  
+This highlights opportunities for targeted bundle promotions and personalized offers based on both frequency and quantity patterns.
 
-Overall, spending power appears to increase with age up to the mid-40s before stabilizing.
+### Insight 1.3: Product Category Preferences by Age and Gender
+Different demographics exhibit clear preferences for specific product categories.  
+Younger and middle-aged customers show distinct interests in categories such as Electronics, Clothing, and Beauty.  
+Understanding these preferences can help optimize product assortment, promotional strategies, and cross-selling opportunities for each demographic group.
 
-## 🔎 Insight 02: Sales Patterns Over Time
+---
 
-The analysis of monthly sales trends reveals clear fluctuations in revenue, transaction volume, and items sold throughout the year.
+## 🔎 Business Problem 2: Sales Patterns Over Time
+**Objective:** Identify trends and seasonal variations in sales to support inventory management and marketing planning.
 
-Sales activity varies month to month, highlighting periods of higher and lower consumer engagement. Early-year months show moderate sales, followed by growth in mid-year, indicating possible seasonal demand or promotional effects.
+The analysis of monthly sales trends reveals fluctuating revenue, transaction volumes, and items sold throughout the year.  
+Early-year months show moderate sales, followed by growth in mid-year, highlighting periods of higher consumer engagement likely influenced by seasonality or promotions.  
+Transaction volume and total items sold generally move in line with revenue, indicating that sales increases are driven primarily by purchase activity rather than price changes.  
+Overall, tracking sales trends over time is critical for forecasting demand, planning inventory, and optimizing marketing efforts.
 
-Transaction volume and total items sold generally move in parallel with revenue trends, suggesting that increases in sales are primarily driven by higher purchase activity rather than significant changes in pricing or product mix.
+---
 
-Overall, the dataset demonstrates cyclical sales behavior across months, emphasizing the importance of tracking sales trends over time to inform inventory management, marketing strategies, and resource allocation.
+## 🔎 Business Problem 3: Top Product Categories
+**Objective:** Determine which products are most popular and contribute most to revenue.
 
-## 🔎 Insight 03.1: Overall Performance of Product Categories
+### Insight 3.1: Overall Performance of Product Categories
+Electronics, Clothing, and Beauty emerge as the top-performing product categories in terms of revenue, transactions, and quantity sold.  
+Electronics drives high-value purchases, while Clothing and Beauty contribute frequent transactions.  
+This combination of high-value and high-frequency categories is key to overall business performance, informing inventory management, marketing focus, and promotional campaigns.
 
-The analysis of product categories reveals clear differences in revenue generation, sales volume, and transaction frequency across categories.
+### Insight 3.2: Age-Based Spending by Product Category
+Different age groups exhibit distinct spending patterns across product categories.  
+Younger customers tend to purchase more frequently in categories like Beauty and Clothing, indicating interest in personal care and fashion items.  
+Middle-aged customers show higher spending in Electronics, reflecting a preference for technology and higher-value products.  
+This insight emphasizes the importance of age-targeted marketing, promotions, and product assortment strategies to maximize revenue and customer engagement.
 
-Electronics, Clothing, and Beauty consistently appear as the top-performing categories, indicating strong customer demand and contribution to overall revenue.
+---
 
-While Electronics leads in total revenue, Clothing and Beauty show high transaction counts, suggesting frequent purchases even if the average transaction value is slightly lower.
-
-This demonstrates that the retail business relies on a combination of high-value items (Electronics) and high-frequency categories (Clothing and Beauty) to drive overall sales performance.
-
-Overall, understanding category performance helps prioritize inventory management, marketing focus, and promotional strategies for the most impactful product lines.
-
-## 🔎 Insight 03.2: Spending by Age and Product Category
-
-The analysis of spending across age groups and product categories highlights distinct preferences among different demographic segments.
-
-Younger customers, such as those around 18 years old, tend to spend more frequently on categories like Beauty and Clothing, indicating strong interest in personal care and fashion items at an early age.
-
-Middle-aged customers, for example those aged 19–36, demonstrate higher spending in Electronics, suggesting that technology and high-value items appeal more to slightly older demographics.
-
-Across all age groups, there is a clear pattern where some categories drive frequent smaller transactions (e.g., Beauty and Clothing), while others, like Electronics, contribute higher-value purchases with fewer transactions.
-
-This insight emphasizes the importance of tailoring marketing, promotions, and product assortment strategies according to age-specific preferences for each product category.
-
+## 🔹 Summary
+- High-spending age/gender segments identified, guiding targeted marketing.  
+- Quantity and spending patterns analyzed to optimize promotions and product bundles.  
+- Monthly sales trends highlight seasonal demand and support inventory planning.  
+- Top product categories (Electronics, Clothing, Beauty) analyzed overall and by age.  
+- Insights provide a foundation for data-driven decisions in marketing, inventory management, and sales strategy.
