@@ -22,18 +22,17 @@ This project demonstrates how SQL can be used for structured exploratory data an
 ## 🗂 Repository Structure
 
 The project is organized for clarity and ease of use:
-
-01_Data cleaning.sql
+01_Data_Cleaning.sql
  – SQL scripts for cleaning and preparing the retail sales dataset.
-
 02_EDA.sql
  – Contains all SQL queries for exploratory data analysis.
-
 03_Insights.md
  – Detailed business insights derived from SQL queries, including interpretations and patterns.
-
 04_Recommendations.md
- – Actionable recommendations based on insights to guide strategic business decisions.
+ – Actionable business recommendations based on analytical findings.
+
+README.md
+ – Project overview and documentation.
 
 Hover over the links to navigate directly to the respective files in the repository.
 
