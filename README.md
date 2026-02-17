@@ -48,14 +48,14 @@ This repository contains the following projects:
 ---
 📁 Repository Structure:
 Ecommerce transactions:
-- [`01_data cleaning.sql`](01_data_cleaning.sql) – SQL scripts for cleaning and preparing the e-commerce transactions dataset.  
+- [`01_data_cleaning.sql`](01_data_cleaning.sql) – SQL scripts for cleaning and preparing the e-commerce transactions dataset.  
 - [`02_EDA.sql`](02_EDA.sql) – SQL queries for exploratory data analysis and solving business problems.  
-- [`03_Insights.md`](03_Insights.md/) – Detailed insights derived from SQL queries, highlighting patterns and observations.  
+- [`03_Insights.md`](03_Insights.md) – Detailed insights derived from SQL queries, highlighting patterns and observations.  
 - [`04_Recommendations.md`](04_Recommendations.md) – Actionable recommendations based on insights to guide strategic business decisions.  
 
 Grocery Store Sales:
 
-- [`01_data cleaning.sql`](./01_data%20cleaning.sql) – SQL scripts for cleaning and preparing the grocery store dataset.  
+- [`01_data cleaning.sql`](./01_data_cleaning.sql) – SQL scripts for cleaning and preparing the grocery store dataset.  
 - [`02_sql-analysis.sql`](./02_sql-analysis.sql) – Contains all SQL queries for data exploration and analysis.  
 - [`03_Insights.md`](./03_insights.md) – Detailed insights derived from SQL queries, including interpretations, possible root causes, and patterns.  
 - [`04_Recommendations.md`](./04_Recommendation.md) – Actionable recommendations based on insights to guide business decisions.  
