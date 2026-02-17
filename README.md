@@ -58,8 +58,8 @@ Grocery Store Sales:
 - [`01_data cleaning.sql`](./01_data_cleaning.sql) – SQL scripts for cleaning and preparing the grocery store dataset.  
 - [`02_sql-analysis.sql`](./02_sql-analysis.sql) – Contains all SQL queries for data exploration and analysis.  
 - [`03_Insights.md`](./03_insights.md) – Detailed insights derived from SQL queries, including interpretations, possible root causes, and patterns.  
-- [`04_Recommendations.md`](./04_Recommendation.md) – Actionable recommendations based on insights to guide business decisions.  
-Retail sales
+- [`04_Recommendations.md`](./04_Recommendation.md) – Actionable recommendations based on insights to guide business decisions.
+Retail sales:
 [01_data_cleaning.sql](retail_sales_analysis/01_data_cleaning.sql) – SQL scripts for cleaning and preparing the retail sales dataset.  
 - [02_EDA.sql](02_EDA.sql) – Contains all SQL queries for exploratory data analysis.  
 - [03_Insights.md](03_Insights.md) – Detailed business insights derived from SQL queries.  
