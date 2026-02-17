@@ -47,32 +47,79 @@ This repository contains the following projects:
 
 ---
 📁 Repository Structure:
-Sql-portfolio-projects/
-├── retail_sales/
-│   ├── 01_Data_cleaning.sql          # Cleaning and preparing retail sales dataset
-│   ├── 02_EDA.sql                    # Exploratory Data Analysis queries
-│   ├── 03_Insights.md                # Business insights derived from EDA
-│   └── 04_Recommendations.md         # Actionable recommendations
-├── somalia_financial_j/
-│   ├── 01_basic_eda.sql
-│   ├── 02_SQL_analysis.sql
-│   ├── 03_Insights.md
-│   └── 04_Recommendations.md
-├── grocery_store_sales/
-│   ├── 01_Data_cleaning.sql
-│   ├── 02_SQL_analysis.sql
-│   ├── 03_Insights.md
-│   └── 04_Recommendations.md
-├── supplement_sales/
-│   ├── 01_Data_cleaning.sql
-│   ├── 02_EDA.sql
-│   ├── 03_Insights.md
-│   └── 04_Recommendations.md
-└── ecommerce_transactions/
-    ├── 01_Data_cleaning.sql
-    ├── 02_EDA.sql
-    ├── 03_Insights.md
-    └── 04_Recommendations.md
+1. Retail Sales Analysis (retail_sales)
+
+Focus: Analyze retail transactions to understand customer behavior, product performance, and sales trends.
+
+Files:
+
+01_Data_cleaning.sql
+ – Cleaning and preparing the retail sales dataset
+
+02_EDA.sql
+ – Exploratory Data Analysis queries
+
+03_Insights.md
+ – Business insights derived from EDA
+
+04_Recommendations.md
+ – Actionable recommendations
+
+2. Somalia Financial Journey (somalia_financial_j)
+
+Focus: Analyze Somalia government financial data to understand revenue, expenditures, and trends.
+
+Files:
+
+01_basic_eda.sql
+
+02_SQL_analysis.sql
+
+03_Insights.md
+
+04_Recommendations.md
+
+3. Grocery Store Sales Analysis (grocery_store_sales)
+
+Focus: Analyze grocery store transactions to uncover sales performance, discounts, customer loyalty, and product diversity.
+
+Files:
+
+01_Data_cleaning.sql
+
+02_SQL_analysis.sql
+
+03_Insights.md
+
+04_Recommendations.md
+
+4. Supplement Sales Analysis (supplement_sales)
+
+Focus: EDA on supplement sales data to understand revenue performance, discounts, platforms, and geographic trends.
+
+Files:
+
+01_Data_cleaning.sql
+
+02_EDA.sql
+
+03_Insights.md
+
+04_Recommendations.md
+
+5. E-commerce Transactions Analysis (ecommerce_transactions)
+
+Focus: Analyze e-commerce transactions to uncover revenue patterns, discounts, sales trends, and payment behavior.
+
+Files:
+
+01_Data_cleaning.sql
+
+02_EDA.sql
+
+03_Insights.md
+
+04_Recommendations.md
 
 
 > Each folder contains fully documented SQL scripts and markdown files for insights and recommendations.
